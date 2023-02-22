@@ -1,0 +1,37 @@
+.wrapper{
+  max-width: 350px;
+  margin: 0 auto;
+  color: #666;
+}
+
+#calclator{
+  box-sizing: border-box;
+  text-align: center;
+}
+
+input{
+  box-sizing: border-box;
+  width: 85%;
+  height: 3.5rem;
+  font-size: 1.6rem;
+  text-align: right;
+  padding:0 0.75rem;
+}
+
+button{
+  font-size: 18px;
+  width: 20%;
+  height: 3.5rem;
+  color: #333;
+  vertical-align: middle;
+  border-color: #fff;
+}
+
+.last {
+  font-size: 18px;
+  width: 41%;
+}
+
+button:hover{
+  border-color: #0066FF;
+}
